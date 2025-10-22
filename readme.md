@@ -4,41 +4,37 @@ Um projeto em Python para leitura de Notas Fiscais Eletrônicas (NF-e) a partir 
 
 Funcionalidades
 
-Leitura automática de XMLs de NF-e a partir de uma pasta.
+- Leitura automática de XMLs de NF-e a partir de uma pasta.
 
-Interface gráfica minimalista e moderna usando customtkinter.
+- Interface gráfica minimalista e moderna usando customtkinter.
 
-Filtros opcionais antes da geração do relatório:
+- Filtros opcionais antes da geração do relatório:
 
-Data inicial e final da emissão.
+- Data inicial e final da emissão.
 
-Valor mínimo da nota.
+- Valor mínimo da nota.
 
-Relatório em Excel com:
+  *Relatório em Excel com:*
 
-Aba de Resumo das notas.
+- Aba de Resumo das notas.
 
-Aba de Detalhes com todos os produtos de cada nota.
+- Aba de Detalhes com todos os produtos de cada nota.
 
-Formatação elegante: cabeçalho em negrito, cores alternadas, colunas ajustadas automaticamente.
+- Formatação elegante: cabeçalho em negrito, cores alternadas, colunas ajustadas automaticamente.
 
-Barra de progresso durante a leitura dos XMLs.
+- Barra de progresso durante a leitura dos XMLs.
 
-Logs de erros gravados em logs.txt.
+- Logs de erros gravados em logs.txt.
 
-Tecnologias e Bibliotecas
+*Tecnologias e Bibliotecas*
 
 Python 3.9+
-
 pandas – manipulação de dados
-
 openpyxl – criação de Excel
-
 lxml – parsing de XML
-
 customtkinter – interface gráfica moderna
 
-Como Usar
+*Como Usar*
 
 Clone ou baixe este repositório.
 
