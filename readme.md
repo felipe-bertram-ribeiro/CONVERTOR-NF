@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Leitor de NF-e</title>
-</head>
-<body>
 
   <h1>Leitor de NF-e</h1>
 
